@@ -1,0 +1,19 @@
+{
+  "name": "learning-project-2",
+  "version": "1.0.0",
+  "description": "Learning TypeScript Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Henry Oliver-Edwards",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript-language-server": "^3.3.2"
+  }
+}
